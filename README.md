@@ -1,1 +1,1 @@
-# auto_hw_2_1 [![Build status](https://ci.appveyor.com/api/projects/status/qkvi1bs9a5po1n9a/branch/main?svg=true)](https://ci.appveyor.com/project/Dimriu/auto-hw-2-1-8ujia/branch/main)
+# auto_hw_2_1 [![Java CI with Gradle](https://github.com/Dimriu/auto_hw_2_1/actions/workflows/gradle.yml/badge.svg)](https://github.com/Dimriu/auto_hw_2_1/actions/workflows/gradle.yml)
